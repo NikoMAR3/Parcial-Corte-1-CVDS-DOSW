@@ -1,6 +1,0 @@
-projectKey=eci.edu.dosw.parcial:Parcial-Corte-1-CVDS-DOSW
-serverUrl=http://localhost:9000
-serverVersion=25.9.0.112764
-dashboardUrl=http://localhost:9000/dashboard?id=eci.edu.dosw.parcial%3AParcial-Corte-1-CVDS-DOSW
-ceTaskId=02bcba62-df07-4baf-a462-aaed8da2147a
-ceTaskUrl=http://localhost:9000/api/ce/task?id=02bcba62-df07-4baf-a462-aaed8da2147a
