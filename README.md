@@ -4,7 +4,6 @@ NIKOLAS MARTINEZ RIVERA GRUPO 2
 
 DESARROLLO PARCIAL:
 
-
 # DIAGRAMA DE CONTEXTO
 ![diagramaContexto.png](docs%2Fuml%2FdiagramaContexto.png)
 # DIAGRAMA CASOS DE USO
