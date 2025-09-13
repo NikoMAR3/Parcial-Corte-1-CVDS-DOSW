@@ -54,6 +54,9 @@ ReportFeature Decorator y el propio Report ambas clases abstractas, academic rep
 de Report junto a ReportFeatureDecorator, va a penas con la estructura de libro del patron de diseno
 `Decorator`.
 
+![img.png](docs/imagenes/img.png)
+
+Imagen de medio funcionamiento de la aplicacion :(
 
 
   

@@ -18,17 +18,14 @@ public class EciReports {
                 case "1":
                     feature = new Table();
                     feature.setFeatureType("Tabla");
-                    builder.addFeaturesToReport(feature);
                     break;
                 case "2":
                     feature = new Graphics();
                     feature.setFeatureType("Grafica");
-                    builder.addFeaturesToReport(feature);
                     break;
                 case "3":
-                    feature.setFeatureType("Diagrama");
-                    builder.addFeaturesToReport(feature);
                     feature = new Diagram();
+                    feature.setFeatureType("Diagrama");
                     break;
                 case "4":
                     continueAdding = false;
