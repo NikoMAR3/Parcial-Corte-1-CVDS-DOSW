@@ -22,4 +22,5 @@ public class AcademicReportBuilder implements ReportBuilder{
     public Report getReport() {
         return academicReport;
     }
+
 }

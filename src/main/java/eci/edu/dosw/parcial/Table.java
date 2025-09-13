@@ -6,8 +6,4 @@ public class Table extends Feature{
         report.addFeature(this);
     }
 
-    @Override
-    public String getFeatureType() {
-        return null;
-    }
 }
