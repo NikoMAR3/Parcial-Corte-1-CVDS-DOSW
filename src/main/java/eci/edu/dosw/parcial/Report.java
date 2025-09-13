@@ -19,4 +19,7 @@ public abstract  class Report {
     }
     public abstract Report getReport();
 
+    public ArrayList<Feature> getFeatures() {
+        return featuresOfReport;
+    }
 }
